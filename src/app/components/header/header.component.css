@@ -10,6 +10,8 @@ header {
   }
   .logo {
     width: 40px;
+    background: #ff0044;
+    border-radius: 50px;
   }
   a {
     text-decoration: none;
